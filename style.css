@@ -1,0 +1,77 @@
+
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 300px;
+    margin-bottom: 10%;
+}
+.name{
+    color: mediumvioletred;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 10px;
+    padding-left:6%;
+    padding-top:50px;
+
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 300px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color:white;
+    background-color: mediumvioletred;
+
+}
+.top-banner{
+    text-align: center;
+}
+.biography{
+    background-image:url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    text-align: center;
+    float: left;
+}
+h3{
+    text-align: center;
+}
+.images{
+
+    max-width: 30%;
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    float: left;
+}
+.images img{
+    width: 100%;
+}
+
+.my-work{
+    background-image: url("images/latest-work-bg.png");
+}
+.a-button{
+    background-color: magenta;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.a-button span{
+             font-weight: 900;
+}
+.a-client{
+    text-align: center;
+    font-weight: bolder;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+
+}
